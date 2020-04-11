@@ -1,5 +1,5 @@
 {
-  "name": "image-handler",
+  "name": "@houkai/imagehandler",
   "version": "1.0.1",
   "description": "Use sharp and gifsicle to manipulate images",
   "main": "index.js",
@@ -12,7 +12,10 @@
   },
   "keywords": [
     "sharp",
-    "gifsicle"
+    "gifsicle",
+    "resize",
+    "crop",
+    "circle"
   ],
   "author": "kk",
   "license": "ISC",
