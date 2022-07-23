@@ -21,7 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "exec-buffer": "^3.2.0",
-    "file-type": "^10.9.0",
+    "file-type": "^16.5.4",
     "gifsicle": "^4.0.1",
     "image-size": "^0.7.2",
     "is-gif": "^3.0.0",
